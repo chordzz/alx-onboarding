@@ -1,0 +1,6 @@
+*** Receive a stream of input numbers from the user
+- Initialize a variable called running_sum = 0
+- read the first number in the stream of numbers inputed by the user.
+- If the number is not less than 0 (i.e negative), then add it to running_sum
+- repeat the step above until there are no numbers left to read, then return running_sum.
+- If a negative number is encountered, return the running_sum you already have and end the program.

@@ -1,0 +1,5 @@
+*** Given n amount of numbers as input
+- initialize a variable called store_sum = 0
+- take the first number in the input, square it and add the squared answer to the store_sum variable
+- repeat the task above until there is no more number in the list of input.
+- return store_sum as the answer.

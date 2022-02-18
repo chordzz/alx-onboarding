@@ -1,0 +1,6 @@
+*** read in the three numbers as input
+- take the second number and compare it to the first number
+- if the second number is less than the first number, swap their positions. Otherwise do nothing
+- Move to the next position (in this case take the number in the third position) and compare the number there with the number in the second position.
+- If the number in the third position is less than the number in the second position, swap their positions. Otherwise do nothing
+- Your list is sorted.
